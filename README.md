@@ -1,3 +1,6 @@
+## \*\*\*This project is deprecated.\*\*\*
+- Newer version: [https://github.com/altoinu/base_nodejs_project-20241223](https://github.com/altoinu/base_nodejs_project-20241223)
+
 # base_nodejs_project-20241009
 Sample basic Node.js project setup with some dev dependencies
 
